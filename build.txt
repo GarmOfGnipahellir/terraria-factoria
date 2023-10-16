@@ -1,0 +1,3 @@
+displayName = Factoria
+author = Henrik Melsom
+version = 0.1
